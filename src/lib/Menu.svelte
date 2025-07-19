@@ -17,7 +17,7 @@
 		<label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
 		<ul class="menu bg-base-200 text-base-content min-h-full w-80 p-4">
 			{#each navRoutes as {href, label}}
-			<li><a href="{base}/{href}">{label}</a></li>
+			<li><a href="{base}{href}">{label}</a></li>
 				{/each}
 		</ul>
 	</div>
