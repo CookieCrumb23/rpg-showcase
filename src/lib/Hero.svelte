@@ -6,7 +6,7 @@
 <div class="h-screen">
 	<div
 		class="hero h-1/3"
-		style="background-image: url({image});"
+		style={`background-image: url('${image}')`}
 	>
 		<div class="hero-overlay"></div>
 		<div class="hero-content text-neutral-content text-center">
