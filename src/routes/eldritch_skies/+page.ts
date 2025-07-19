@@ -1,7 +1,9 @@
+export const _metadata = {
+	image:
+		'https://1.bp.blogspot.com/_aw_uK9XcPH8/S8a3FuoKMRI/AAAAAAAAC7M/ePMyzSRq9hI/s1600/Alien-City-science-fiction-3999006-1280-700.jpg',
+	title: 'Eldritch Skies',
+	text: 'This is bar content.'
+};
 export const load = () => {
-	return {
-		image: 'https://1.bp.blogspot.com/_aw_uK9XcPH8/S8a3FuoKMRI/AAAAAAAAC7M/ePMyzSRq9hI/s1600/Alien-City-science-fiction-3999006-1280-700.jpg',
-		title: 'Eldritch Skies',
-		text: 'This is bar content.'
-	};
+	return _metadata;
 };

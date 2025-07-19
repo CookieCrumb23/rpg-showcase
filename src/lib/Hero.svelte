@@ -3,16 +3,13 @@
 	export let title: string;
 	export let text: string;
 </script>
+
 <div class="h-screen">
-	<div
-		class="hero h-1/3"
-		style={`background-image: url('${image}')`}
-	>
+	<div class="hero h-1/3" style={`background-image: url('${image}')`}>
 		<div class="hero-overlay"></div>
 		<div class="hero-content text-neutral-content text-center">
 			<div class="max-w-md">
 				<h1 class="mb-5 text-5xl font-bold">{title}</h1>
-
 			</div>
 		</div>
 	</div>

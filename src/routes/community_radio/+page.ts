@@ -1,7 +1,9 @@
+export const _metadata = {
+	image:
+		'https://assetsio.gnwcdn.com/radio-tower-small-town.jpeg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp',
+	title: 'Community Radio',
+	text: 'This is bar content.'
+};
 export const load = () => {
-	return {
-		image: 'https://assetsio.gnwcdn.com/radio-tower-small-town.jpeg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp',
-		title: 'Community Radio',
-		text: 'This is bar content.'
-	};
+	return _metadata;
 };

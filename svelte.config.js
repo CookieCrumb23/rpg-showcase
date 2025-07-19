@@ -11,9 +11,10 @@ const config = {
 			fallback: '404.html'
 		}),
 		paths: {
-			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH		},
+			base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
+		},
 		prerender: {
-			entries: ['*'],
+			entries: ['*']
 			/*handleHttpError: ({ status, path, referrer, referenceType }) => {
 				if (status === 404) return; // suppress 404s
 				throw new Error(`${status} ${path}`);

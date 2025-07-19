@@ -1,7 +1,9 @@
+export const _metadata = {
+	image:
+		'https://writeups.letsyouandhimfight.com/images/1fc455f35f5a6fbc8b59477bcb1f589f0e8bcf4ac1c659bee8619b4a1cf7e0b9.jpeg',
+	title: 'Deadlands',
+	text: 'This is bar content.'
+};
 export const load = () => {
-	return {
-		image: 'https://writeups.letsyouandhimfight.com/images/1fc455f35f5a6fbc8b59477bcb1f589f0e8bcf4ac1c659bee8619b4a1cf7e0b9.jpeg',
-		title: 'Deadlands',
-		text: 'This is bar content.'
-	};
+	return _metadata;
 };

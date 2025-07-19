@@ -1,5 +1,21 @@
 <script>
+	export let data;
 </script>
-<div class="flex items-center justify-center h-screen ">
-	<h1 class="font-mono text-5xl">There's no content here.</h1>
+
+<div class="min-h-screen flex flex-col items-center justify-center bg-base-100 p-8">
+	<h1 class="text-3xl font-bold mb-8 text-center">Choose Your Adventure</h1>
+	<div class="grid grid-cols-4 gap-6 w-full max-w-6xl">
+		{#each data.tiles as tile}
+			<a href={tile.path}>
+				<div class="card bg-base-100 image-full shadow-sm">
+					<figure>
+						<img src={tile.image} alt="" />
+					</figure>
+					<div class="card-body">
+						<h2 class="card-title">{tile.title}</h2>
+					</div>
+				</div>
+			</a>
+		{/each}
+	</div>
 </div>
