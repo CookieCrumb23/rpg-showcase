@@ -1,3 +1,5 @@
+import { titleCase } from 'title-case';
+
 export const navRoutes = Object.entries(
 	import.meta.glob('/src/routes/**/+page.svelte', { eager: true })
 ).map(([path]) => {
@@ -6,7 +8,7 @@ export const navRoutes = Object.entries(
 		.replace('/+page.svelte', '')
 		.replace(/\/index$/, '/') || '/';
 
-	const label =route === '/' ? 'Home' : route.slice(1).replace('-', ' ').charAt(0).toUpperCase() + route.slice(2);
+	const label = route === '/' ? 'Home' : titleCase(route.slice(1).replaceAll('_', ' '));
 
 	return {
 		href: route,
