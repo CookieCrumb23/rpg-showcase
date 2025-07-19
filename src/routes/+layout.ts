@@ -22,4 +22,4 @@ export const load: LayoutLoad = ({ url }) => {
 };
 
 export const prerender = true;
-export const trailingSlash = 'smart';
+export const trailingSlash = 'always';
