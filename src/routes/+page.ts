@@ -13,5 +13,5 @@ export async function load() {
 		})
 	);
 
-	return { tiles: entries };
+	return { tiles: entries.sort((a, b) => a.title.localeCompare(b.title)) };
 }
