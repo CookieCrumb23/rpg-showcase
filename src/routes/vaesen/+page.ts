@@ -1,6 +1,6 @@
 export const load = () => {
 	return {
-		image: 'https://img.daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.webp',
+		image: 'https://freeleaguepublishing.com/wp-content/uploads/2023/08/Vaesen_hero3-scaled.jpg',
 		title: 'Vaesen',
 		text: 'This is bar content.'
 	};

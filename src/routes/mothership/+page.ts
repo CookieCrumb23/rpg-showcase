@@ -1,6 +1,6 @@
 export const load = () => {
 	return {
-		image: 'https://img.daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.webp',
+		image: 'https://www.tuesdayknightgames.com/cdn/shop/files/ms-new-header_20.jpg',
 		title: 'Mothership',
 		text: 'This is bar content.'
 	};

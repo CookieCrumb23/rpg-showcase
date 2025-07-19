@@ -1,6 +1,6 @@
 export const load = () => {
 	return {
-		image: 'https://img.daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.webp',
+		image: 'https://assetsio.gnwcdn.com/call-of-cthulhu-time-to-harvest.png?width=1600&height=900&fit=crop&quality=100&format=png',
 		title: 'Call of Cthulhu',
 		text: 'This is bar content.'
 	};

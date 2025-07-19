@@ -1,6 +1,6 @@
 export const load = () => {
 	return {
-		image: 'https://img.daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.webp',
+		image: 'https://platform.polygon.com/wp-content/uploads/sites/2/2024/11/The-Magnus-Archives-RPG-127-Gabriela-Novotna.jpg',
 		title: 'The Magnus Archives',
 		text: 'This is bar content.'
 	};
