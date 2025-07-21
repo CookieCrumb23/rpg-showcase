@@ -1,13 +1,8 @@
-export const _metadata: Metadata = {
-	imageUrl:
-		'https://1.bp.blogspot.com/_aw_uK9XcPH8/S8a3FuoKMRI/AAAAAAAAC7M/ePMyzSRq9hI/s1600/Alien-City-science-fiction-3999006-1280-700.jpg',
-	title: 'Eldritch Skies',
-	pitch: ['pitch'],
-	atmosphere: ['atmosphere'],
-	usps: ['usps'],
-	comparisons: ['comparisons'],
-	audience: ['audience']
-};
+import type { Metadata } from '$lib/types/metadata';
+import metadata from './metadata.json';
+
+export const _metadata: Metadata = metadata;
+
 export const load = async (): Promise<Metadata> => {
-	return _metadata;
+	return metadata as Metadata;
 };

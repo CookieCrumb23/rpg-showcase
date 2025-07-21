@@ -1,12 +1,8 @@
-export const _metadata: Metadata = {
-	imageUrl: 'https://eclipsephase.com/wp-content/uploads/2021/04/EP2-Cover-scaled.jpg',
-	title: 'Eclipse Phase',
-	pitch: ['pitch'],
-	atmosphere: ['atmosphere'],
-	usps: ['usps'],
-	comparisons: ['comparisons'],
-	audience: ['audience']
-};
+import type { Metadata } from '$lib/types/metadata';
+import metadata from './metadata.json';
+
+export const _metadata: Metadata = metadata;
+
 export const load = async (): Promise<Metadata> => {
-	return _metadata;
+	return metadata as Metadata;
 };

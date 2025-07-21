@@ -1,12 +1,8 @@
-export const _metadata: Metadata = {
-	imageUrl: 'https://www.tuesdayknightgames.com/cdn/shop/files/ms-new-header_20.jpg',
-	title: 'Mothership',
-	pitch: ['pitch'],
-	atmosphere: ['atmosphere'],
-	usps: ['usps'],
-	comparisons: ['comparisons'],
-	audience: ['audience']
-};
+import type { Metadata } from '$lib/types/metadata';
+import metadata from './metadata.json';
+
+export const _metadata: Metadata = metadata;
+
 export const load = async (): Promise<Metadata> => {
-	return _metadata;
+	return metadata as Metadata;
 };

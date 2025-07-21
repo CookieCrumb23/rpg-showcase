@@ -1,12 +1,8 @@
-export const _metadata: Metadata = {
-	imageUrl: 'https://i.pinimg.com/originals/7c/b9/3b/7cb93b9708e40b2215beb6f7f4d7341d.jpg',
-	title: 'Delta Green',
-	pitch: ['pitch'],
-	atmosphere: ['atmosphere'],
-	usps: ['usps'],
-	comparisons: ['comparisons'],
-	audience: ['audience']
-};
+import type { Metadata } from '$lib/types/metadata';
+import metadata from './metadata.json';
+
+export const _metadata: Metadata = metadata;
+
 export const load = async (): Promise<Metadata> => {
-	return _metadata;
+	return metadata as Metadata;
 };

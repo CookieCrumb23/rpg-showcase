@@ -1,12 +1,8 @@
-export const _metadata: Metadata = {
-	imageUrl: 'https://rowanrookanddecard.com/wp-content/uploads/2023/11/Happy-Kite-Art-Spire-3.png',
-	title: 'Spire the City Must Fall',
-	pitch: ['pitch'],
-	atmosphere: ['atmosphere'],
-	usps: ['usps'],
-	comparisons: ['comparisons'],
-	audience: ['audience']
-};
+import type { Metadata } from '$lib/types/metadata';
+import metadata from './metadata.json';
+
+export const _metadata: Metadata = metadata;
+
 export const load = async (): Promise<Metadata> => {
-	return _metadata;
+	return metadata as Metadata;
 };
