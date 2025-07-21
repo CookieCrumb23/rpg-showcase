@@ -1,8 +1,12 @@
-export const _metadata = {
-	image: 'https://i.pinimg.com/originals/7c/b9/3b/7cb93b9708e40b2215beb6f7f4d7341d.jpg',
+export const _metadata: Metadata = {
+	imageUrl: 'https://i.pinimg.com/originals/7c/b9/3b/7cb93b9708e40b2215beb6f7f4d7341d.jpg',
 	title: 'Delta Green',
-	text: 'This is bar content.'
+	pitch: ['pitch'],
+	atmosphere: ['atmosphere'],
+	usps: ['usps'],
+	comparisons: ['comparisons'],
+	audience: ['audience']
 };
-export const load = () => {
+export const load = async (): Promise<Metadata> => {
 	return _metadata;
 };

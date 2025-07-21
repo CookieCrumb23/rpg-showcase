@@ -1,8 +1,12 @@
-export const _metadata = {
-	image: 'https://www.tuesdayknightgames.com/cdn/shop/files/ms-new-header_20.jpg',
+export const _metadata: Metadata = {
+	imageUrl: 'https://www.tuesdayknightgames.com/cdn/shop/files/ms-new-header_20.jpg',
 	title: 'Mothership',
-	text: 'This is bar content.'
+	pitch: ['pitch'],
+	atmosphere: ['atmosphere'],
+	usps: ['usps'],
+	comparisons: ['comparisons'],
+	audience: ['audience']
 };
-export const load = () => {
+export const load = async (): Promise<Metadata> => {
 	return _metadata;
 };

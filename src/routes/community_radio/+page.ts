@@ -1,9 +1,13 @@
-export const _metadata = {
-	image:
+export const _metadata: Metadata = {
+	imageUrl:
 		'https://assetsio.gnwcdn.com/radio-tower-small-town.jpeg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp',
 	title: 'Community Radio',
-	text: 'This is bar content.'
+	pitch: ['pitch'],
+	atmosphere: ['atmosphere'],
+	usps: ['usps'],
+	comparisons: ['comparisons'],
+	audience: ['audience']
 };
-export const load = () => {
+export const load = async (): Promise<Metadata> => {
 	return _metadata;
 };

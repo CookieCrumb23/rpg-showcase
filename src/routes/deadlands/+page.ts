@@ -1,9 +1,13 @@
-export const _metadata = {
-	image:
+export const _metadata: Metadata = {
+	imageUrl:
 		'https://writeups.letsyouandhimfight.com/images/1fc455f35f5a6fbc8b59477bcb1f589f0e8bcf4ac1c659bee8619b4a1cf7e0b9.jpeg',
 	title: 'Deadlands',
-	text: 'This is bar content.'
+	pitch: ['pitch'],
+	atmosphere: ['atmosphere'],
+	usps: ['usps'],
+	comparisons: ['comparisons'],
+	audience: ['audience']
 };
-export const load = () => {
+export const load = async (): Promise<Metadata> => {
 	return _metadata;
 };

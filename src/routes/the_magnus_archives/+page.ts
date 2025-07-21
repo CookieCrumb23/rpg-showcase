@@ -1,9 +1,13 @@
-export const _metadata = {
-	image:
+export const _metadata: Metadata = {
+	imageUrl:
 		'https://platform.polygon.com/wp-content/uploads/sites/2/2024/11/The-Magnus-Archives-RPG-127-Gabriela-Novotna.jpg',
 	title: 'The Magnus Archives',
-	text: 'This is bar content.'
+	pitch: ['pitch'],
+	atmosphere: ['atmosphere'],
+	usps: ['usps'],
+	comparisons: ['comparisons'],
+	audience: ['audience']
 };
-export const load = () => {
+export const load = async (): Promise<Metadata> => {
 	return _metadata;
 };

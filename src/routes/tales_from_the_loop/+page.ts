@@ -1,8 +1,12 @@
-export const _metadata = {
-	image: 'https://freeleaguepublishing.com/wp-content/uploads/2023/09/TalesfromtheLoop.jpg',
+export const _metadata: Metadata = {
+	imageUrl: 'https://freeleaguepublishing.com/wp-content/uploads/2023/09/TalesfromtheLoop.jpg',
 	title: 'Tales from the Loop',
-	text: 'This is bar content.'
+	pitch: ['pitch'],
+	atmosphere: ['atmosphere'],
+	usps: ['usps'],
+	comparisons: ['comparisons'],
+	audience: ['audience']
 };
-export const load = () => {
+export const load = async (): Promise<Metadata> => {
 	return _metadata;
 };

@@ -1,9 +1,13 @@
-export const _metadata = {
-	image:
+export const _metadata: Metadata = {
+	imageUrl:
 		'https://1.bp.blogspot.com/_aw_uK9XcPH8/S8a3FuoKMRI/AAAAAAAAC7M/ePMyzSRq9hI/s1600/Alien-City-science-fiction-3999006-1280-700.jpg',
 	title: 'Eldritch Skies',
-	text: 'This is bar content.'
+	pitch: ['pitch'],
+	atmosphere: ['atmosphere'],
+	usps: ['usps'],
+	comparisons: ['comparisons'],
+	audience: ['audience']
 };
-export const load = () => {
+export const load = async (): Promise<Metadata> => {
 	return _metadata;
 };

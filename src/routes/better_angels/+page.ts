@@ -1,10 +1,9 @@
-export const _metadata = {
-	image:
-		'https://cf.geekdo-images.com/ZVsjCUXl3FQmKJboK130hg__opengraph/img/kI-mHkuio77K7Ld-89IJuOrzVxE=/0x0:678x356/fit-in/1200x630/filters:strip_icc()/pic1659298.png',
-	title: 'Better Angels',
-	text: 'This is bar content.'
-};
+import type { Metadata } from '$lib/types/metadata';
+import metadata from './metadata.json';
 
-export const load = async () => {
-	return _metadata;
+
+export const _metadata: Metadata = metadata;
+
+export const load = async (): Promise<Metadata> => {
+	return metadata as Metadata;
 };

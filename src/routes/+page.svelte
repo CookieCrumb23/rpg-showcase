@@ -9,7 +9,7 @@
 			<a href={tile.path}>
 				<div class="card bg-base-100 image-full shadow-sm h-full">
 					<figure class="h-48 overflow-hidden">
-						<img src={tile.image} alt="" class="object-cover w-full h-full" />
+						<img src={tile.imageUrl} alt="" class="object-cover w-full h-full" />
 					</figure>
 					<div class="card-body">
 						<h2 class="card-title">{tile.title}</h2>

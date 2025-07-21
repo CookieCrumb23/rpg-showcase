@@ -1,9 +1,14 @@
-export const _metadata = {
-	image:
+
+export const _metadata: Metadata = {
+	imageUrl:
 		'https://i0.wp.com/www.teilzeithelden.de/wp-content/uploads/2017/10/blades-in-the-dark-evil-hat-spielbericht-header.jpg',
 	title: 'Blades in the Dark',
-	text: 'This is bar content.'
+	pitch: [],
+	atmosphere: ['atmosphere'],
+	usps: ['usps'],
+	comparisons: ['comparisons'],
+	audience: ['audience']
 };
-export const load = () => {
+export const load = async (): Promise<Metadata> => {
 	return _metadata;
 };

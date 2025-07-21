@@ -1,8 +1,9 @@
 <script lang="ts">
-	export let data;
+	export let data: Metadata;
 	import Hero from '$lib/Hero.svelte';
 
-	const { image, title, text } = data;
+	const metadata: Metadata = data;
 </script>
 
-<Hero {image} {title} {text} />
+<Hero {metadata} />
+

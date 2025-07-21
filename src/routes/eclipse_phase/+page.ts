@@ -1,8 +1,12 @@
-export const _metadata = {
-	image: 'https://eclipsephase.com/wp-content/uploads/2021/04/EP2-Cover-scaled.jpg',
+export const _metadata: Metadata = {
+	imageUrl: 'https://eclipsephase.com/wp-content/uploads/2021/04/EP2-Cover-scaled.jpg',
 	title: 'Eclipse Phase',
-	text: 'This is bar content.'
+	pitch: ['pitch'],
+	atmosphere: ['atmosphere'],
+	usps: ['usps'],
+	comparisons: ['comparisons'],
+	audience: ['audience']
 };
-export const load = () => {
+export const load = async (): Promise<Metadata> => {
 	return _metadata;
 };
