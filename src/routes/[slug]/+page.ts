@@ -13,5 +13,5 @@ export const load: PageLoad = async ({ params }) => {
 		throw error(404, `Metadata not found for slug: ${params.slug}`);
 	}
 
-	return await loader().then((mod: any) => mod.default);
+	return await loader().then((mod: any) => mod.default as Metadata);
 };

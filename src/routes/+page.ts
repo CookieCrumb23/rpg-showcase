@@ -5,11 +5,7 @@ export async function load() {
 		Object.entries(modules).map(async ([path, resolver]) => {
 			const mod: Metadata = await resolver();
 
-			path = path.replace("../lib/content/", "")
-				.replace(".json", "");
-			console.debug(path);
-
-
+			path = path.replace('../lib/content/', '').replace('.json', '');
 			return {
 				...mod,
 				path

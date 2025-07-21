@@ -1,9 +1,9 @@
 {
-  "imageUrl": "https://www.mongoosepublishing.com/cdn/shop/collections/ParanoiaAll.jpg",
-  "title": "Paranoia",
-  "pitch": ["pitch"],
-  "atmosphere": ["atmosphere"],
-  "usps": ["usps"],
-  "comparisons": ["comparisons"],
-  "audience": ["audience"]
+	"imageUrl": "https://www.mongoosepublishing.com/cdn/shop/collections/ParanoiaAll.jpg",
+	"title": "Paranoia",
+	"pitch": ["pitch"],
+	"atmosphere": ["atmosphere"],
+	"usps": ["usps"],
+	"comparisons": ["comparisons"],
+	"audience": ["audience"]
 }

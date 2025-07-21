@@ -1,31 +1,30 @@
 {
-  "imageUrl":
-  "https://cf.geekdo-images.com/ZVsjCUXl3FQmKJboK130hg__opengraph/img/kI-mHkuio77K7Ld-89IJuOrzVxE=/0x0:678x356/fit-in/1200x630/filters:strip_icc()/pic1659298.png",
-  "title": "Better Angels",
-  "pitch": [
-    "Better Angels ist ein subversives Supervillain-Rollenspiel, in dem du einen Superschurken spielst, der von einem echten Dämon besessen ist – und versuchst, genug Böses zu tun, um die Tarnung aufrechtzuerhalten, ohne völlig die Kontrolle an den Dämon zu verlieren.",
-    "Der Clou: Dein Mitspieler spielt deinen Dämon – und versucht aktiv, dich zu korrumpieren."
-  ],
-  "atmosphere": [
-    "Spielt in einer düsteren Superheldenwelt irgendwo zwischen The Boys, Watchmen und The Incredibles, nur dass alle Superschurken von Höllenwesen manipuliert werden.",
-    "Der Ton ist satirisch, böse, ironisch, aber auch tragisch, wenn du willst.",
-    "Du kannst ein cartoonhafter Superschurke oder ein innerlich zerrissener Antiheld sein – oder beides gleichzeitig."
-  ],
-  "usps": [
-    "Du spielst deinen Charakter. Dein Nachbar spielt deinen Dämon.",
-    "Das bedeutet: Jeder Spieler hat zwei Rollen gleichzeitig im Spiel – immer involviert, immer in Konflikt.",
-    "Diese Dualstruktur schafft eine dynamische, interaktive Moralmechanik, wie sie kaum ein anderes System kennt."
-  ],
-  "comparisons": [
-    "Wie Fiasco meets The Boys, aber mit moralischem Unterbau.",
-    "Wie In Nomine, aber aus der Sicht der Sündiger.",
-    "Wie Masks, wenn alle Teenager böse wären und vom Teufel versprochen bekamen, die Welt zu verändern.",
-    "Wie Call of Cthulhu, aber statt Wahnsinn: Verführung durch Macht."
-  ],
-  "audience": [
-    "Superheldengenre lieben, aber etwas komplett Anderes daraus machen wollen",
-    "Spaß an spielergetriebenem moralischem Chaos haben",
-    "gerne mit kreativen, gegenseitigen Sabotagen und Dilemmata arbeiten",
-    "sowohl Comedy als auch Tragik ins Spiel bringen wollen"
-  ]
+	"imageUrl": "https://cf.geekdo-images.com/ZVsjCUXl3FQmKJboK130hg__opengraph/img/kI-mHkuio77K7Ld-89IJuOrzVxE=/0x0:678x356/fit-in/1200x630/filters:strip_icc()/pic1659298.png",
+	"title": "Better Angels",
+	"pitch": [
+		"Better Angels ist ein subversives Supervillain-Rollenspiel, in dem du einen Superschurken spielst, der von einem echten Dämon besessen ist – und versuchst, genug Böses zu tun, um die Tarnung aufrechtzuerhalten, ohne völlig die Kontrolle an den Dämon zu verlieren.",
+		"Der Clou: Dein Mitspieler spielt deinen Dämon – und versucht aktiv, dich zu korrumpieren."
+	],
+	"atmosphere": [
+		"Spielt in einer düsteren Superheldenwelt irgendwo zwischen The Boys, Watchmen und The Incredibles, nur dass alle Superschurken von Höllenwesen manipuliert werden.",
+		"Der Ton ist satirisch, böse, ironisch, aber auch tragisch, wenn du willst.",
+		"Du kannst ein cartoonhafter Superschurke oder ein innerlich zerrissener Antiheld sein – oder beides gleichzeitig."
+	],
+	"usps": [
+		"Du spielst deinen Charakter. Dein Nachbar spielt deinen Dämon.",
+		"Das bedeutet: Jeder Spieler hat zwei Rollen gleichzeitig im Spiel – immer involviert, immer in Konflikt.",
+		"Diese Dualstruktur schafft eine dynamische, interaktive Moralmechanik, wie sie kaum ein anderes System kennt."
+	],
+	"comparisons": [
+		"Wie Fiasco meets The Boys, aber mit moralischem Unterbau.",
+		"Wie In Nomine, aber aus der Sicht der Sündiger.",
+		"Wie Masks, wenn alle Teenager böse wären und vom Teufel versprochen bekamen, die Welt zu verändern.",
+		"Wie Call of Cthulhu, aber statt Wahnsinn: Verführung durch Macht."
+	],
+	"audience": [
+		"Superheldengenre lieben, aber etwas komplett Anderes daraus machen wollen",
+		"Spaß an spielergetriebenem moralischem Chaos haben",
+		"gerne mit kreativen, gegenseitigen Sabotagen und Dilemmata arbeiten",
+		"sowohl Comedy als auch Tragik ins Spiel bringen wollen"
+	]
 }
