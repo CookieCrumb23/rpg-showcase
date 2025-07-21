@@ -3,8 +3,8 @@
 	export let data: Metadata;
 </script>
 
-<div class="h-screen">
-	<div class="hero h-1/3" style={`background-image: url('${data.imageUrl}')`}>
+<div>
+	<div class="hero lg:h-84" style={`background-image: url('${data.imageUrl}')`}>
 		<div class="hero-overlay"></div>
 		<div class="hero-content text-neutral-content text-center">
 			<div class="max-w-md">
@@ -12,7 +12,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="pt-5 pb-25 px-4">
+	<div class="pt-5 px-4">
 		<div class="max-w-2xl mx-auto text-center space-y-4">
 			<p>Pitch</p>
 			{#each data.pitch as paragraph}
