@@ -1,14 +1,18 @@
 export async function load() {
-	const modules = import.meta.glob('./**/+page.ts');
+	const modules = import.meta.glob('../lib/content/*.json');
 
 	const entries = await Promise.all(
 		Object.entries(modules).map(async ([path, resolver]) => {
-			const mod: any = await resolver();
-			const metadata = mod._metadata;
+			const mod: Metadata = await resolver();
+
+			path = path.replace("../lib/content/", "")
+				.replace(".json", "");
+			console.debug(path);
+
 
 			return {
-				...metadata,
-				path: path.split('/')[1]
+				...mod,
+				path
 			};
 		})
 	);
