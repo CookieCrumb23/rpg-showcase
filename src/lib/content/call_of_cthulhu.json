@@ -1,9 +1,31 @@
 {
-	"imageUrl": "https://assetsio.gnwcdn.com/call-of-cthulhu-time-to-harvest.png?width=1600&height=900&fit=crop&quality=100&format=png",
-	"title": "Call of Cthulhu",
-	"pitch": ["pitch"],
-	"atmosphere": ["atmosphere"],
-	"usps": ["usps"],
-	"comparisons": ["comparisons"],
-	"audience": ["audience"]
+  "imageUrl": "https://assetsio.gnwcdn.com/call-of-cthulhu-time-to-harvest.png?width=1600&height=900&fit=crop&quality=100&format=png",
+  "title": "Call of Cthulhu",
+  "pitch": [
+    "_Call of Cthulhu_ ist **das Rollenspiel des kosmischen Horrors** – basierend auf den Werken von H.P. Lovecraft.",
+    "Du spielst keine Helden, sondern **normale Menschen**, die mit dem Übernatürlichen konfrontiert werden: verbotene Bücher, uralte Götter, Kultisten und das **unaussprechliche Grauen jenseits des menschlichen Verstands**."
+  ],
+  "atmosphere": [
+    "Meist spielt _CoC_ in den **1920ern** – mit Automobilen, Telegrammen und Zigarrenrauch, in einer Welt, die gerade genug Fortschritt kennt, um zu denken, sie hätte alles verstanden. Aber auch Settings wie **Gaslight (1890er)**, **Gegenwart**, **WWII**, oder sogar **Cthulhu im Weltraum** (_Delta Green_, _Cthulhu Rising_, etc.) sind möglich.",
+    "Der Ton ist **düster, langsam eskalierend, psychologisch – und am Ende meist fatal**. Das Ziel ist selten der Sieg, sondern das **Verstehen – und das Überleben der Wahrheit**."
+
+  ],
+  "usps": [
+    "Du würfelst mit **W100 auf prozentbasierte Fertigkeiten** (z.B. Schleichen 60%, Schusswaffen 35%).",
+    "Charaktere haben **geistige Stabilität (SAN)** – der Verlust davon ist nicht nur wahrscheinlich, sondern zentraler Bestandteil des Spiels.",
+    "Das Spiel belohnt **Rollen- und Ermittlungsarbeit** mehr als Kampf – denn der endet meist tödlich oder wahnsinnig."
+
+  ],
+  "comparisons": [
+    "Stell dir vor, _Call of Cthulhu_ ist der **Antithese zu D&D**: keine Level-Ups, kein Loot, keine Heldenreise – sondern **Verfall, Wahnsinn und Erkenntnis, die mehr schadet als hilft**.",
+    "**Trail of Cthulhu** (_GUMSHOE-System, mehr Storystruktur_)",
+    "**Delta Green** (_militärisch-modern, aber mit denselben Mechaniken_)",
+    "**Vaesen** (_ähnlicher investigativer Ton, aber mit nordischer Folklore_)"
+  ],
+  "audience": [
+    "**mysteriöse Geschichten** mit Tiefgang und Atmosphäre lieben",
+    "**mehr Rollenspiel als Regeloptimierung** suchen",
+    "sich gerne mit **psychologischen Themen, Okkultismus und Wahnsinn** auseinandersetzen",
+    "nichts dagegen haben, dass ihr Charakter stirbt – oder schlimmer, **weiterlebt**"
+  ]
 }

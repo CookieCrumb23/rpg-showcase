@@ -1,9 +1,27 @@
 {
-	"imageUrl": "https://i.pinimg.com/originals/7c/b9/3b/7cb93b9708e40b2215beb6f7f4d7341d.jpg",
-	"title": "Delta Green",
-	"pitch": ["pitch"],
-	"atmosphere": ["atmosphere"],
-	"usps": ["usps"],
-	"comparisons": ["comparisons"],
-	"audience": ["audience"]
+  "imageUrl": "https://i.pinimg.com/originals/7c/b9/3b/7cb93b9708e40b2215beb6f7f4d7341d.jpg",
+  "title": "Delta Green",
+  "pitch": [
+    "_Delta Green_ ist ein **moderne Mythos-Horror-Rollenspiel** über geheime Regierungsoperationen, psychischen Verfall und kosmische Hoffnungslosigkeit. Du spielst Agent:innen eines inoffiziellen Regierungsprogramms, das mit **Lovecraft’schem Grauen** konfrontiert ist – und es **verschweigt, vergräbt oder vernichtet**, koste es, was es wolle.",
+    "**Der Mythos existiert – aber niemand darf davon erfahren.** Nicht einmal du selbst, wenn du lange leben willst."
+  ],
+  "atmosphere": [
+    "Tonalität: **Paranoia, Nihilismus, psychologischer Verfall.**",
+    "Thema: **Wie viel von dir bist du bereit zu opfern, um die Menschheit zu retten – wissend, dass sie es nie erfahren wird?**",
+    "Horror ist nicht nur in Kreaturen, sondern in der **Bürokratie, den moralischen Grauzonen, der Einsamkeit.**",
+    "Ein Einsatz ist kein Abenteuer – er ist **ein Abstieg**, und du wirst nicht heil wieder rauskommen."
+  ],
+  "usps": [
+    "usps"
+  ],
+  "comparisons": [
+    "Wie **_Call of Cthulhu_**, aber mit **Spezialagenten, Geheimoperationen und PTSD.**",
+    "Wie **_X-Files_**, aber wenn **Mulder eine Shotgun mitnimmt und stirbt**.",
+    "Wie **_True Detective_**, _The Thing_, _Zero Dark Thirty_ – aber mit Lovecraft im Untergrund."
+  ],
+  "audience": [
+    "**modernen, düsteren, psychologischen Horror** suchen",
+    "Wert auf **Charakterspiel, Konsequenzen und realistische Eskalation** legen",
+    "eher ein **Tragödien-Rollenspiel als ein Monster-of-the-Week-Spiel** spielen wollen"
+  ]
 }

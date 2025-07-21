@@ -1,9 +1,31 @@
 {
 	"imageUrl": "https://i0.wp.com/www.teilzeithelden.de/wp-content/uploads/2017/10/blades-in-the-dark-evil-hat-spielbericht-header.jpg",
 	"title": "Blades in the Dark",
-	"pitch": [],
-	"atmosphere": ["atmosphere"],
-	"usps": ["usps"],
-	"comparisons": ["comparisons"],
-	"audience": ["audience"]
+	"pitch": [
+		"_Blades in the Dark_ ist ein düsteres, stilisiertes Rollenspiel über eine Bande von Kriminellen, die im **verfallenden, geisterverseuchten Industriefantasy-Slum** von **Doskvol** ihren Aufstieg erzwingen – durch Raub, Schmuggel, Attentate oder Okkultismus.",
+		"Du spielst nicht einzelne Helden, sondern **Mitglieder eines Syndikats**, das ihr gemeinsam aufbaut, erweitert und durch Konflikte mit rivalisierenden Banden, korrupten Adligen und übernatürlichen Mächten navigiert."
+	],
+	"atmosphere": [
+		"_Doskvol_ ist eine **post-apokalyptische Geisterpunk-Stadt**: elektrisch betrieben, um Geister in Schach zu halten, halb viktorianisch, halb Fantasy-Industriehölle. Eine Mischung aus **Dishonored**, **Peaky Blinders** und **Bloodborne**.",
+		"Es geht nicht um Weltrettung, sondern um **Macht, Loyalität, Verrat und Ambition** in einer Stadt, in der jede Entscheidung Konsequenzen hat – mechanisch und narrativ."
+
+	],
+	"usps": [
+		"**Position & Effekt** bestimmen Risiko & Auswirkung jedes Wurfs → Erzählerische Tiefe direkt in der Mechanik.",
+		"**Flashbacks** ersetzen Vorbereitung: Anstatt Heists lang zu planen, beginnst du _in medias res_ – und baust durch Rückblenden deine Vorbereitung rückwirkend ein.",
+		"Die Gruppe verwaltet eine **Crew mit eigenen Upgrades, Turf, Verbündeten und Feinden** – die Bande ist ein eigener Charakter.",
+		"Zwischen Missionen gibt es eine klare **Downtime-Phase**: Stress abbauen, Ressourcen managen, Projekte verfolgen."
+	],
+	"comparisons": [
+		"**_Apocalypse World_**, aber strukturierter und crunchiger",
+		"**_D&D_**, aber auf der kriminellen Seite der Welt",
+		"**_Shadowrun_**, aber fokussierter und mit integrierter Heist-Mechanik",
+		"**_Powered by the Apocalypse_**, aber mit eigenem Würfelsystem und Crew-Fokus"
+	],
+	"audience": [
+		"**Heist-, Gangster- oder Intrigenszenarien** lieben",
+		"**weniger Vorbereitung, aber mehr narrative Kontrolle** wollen",
+		"ein Spiel suchen, in dem **Konsequenzen organisch wachsen**",
+		"Spaß daran haben, **nicht die Guten** zu sein"
+	]
 }

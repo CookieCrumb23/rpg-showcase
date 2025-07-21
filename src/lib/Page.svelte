@@ -12,7 +12,7 @@
 		</div>
 	</div>
 	<div class="pt-5 px-4">
-		<div class="max-w-2xl mx-auto text-center space-y-4 prose">
+		<div class="max-w-3xl mx-auto text-center space-y-4 prose">
 			<h2>Pitch</h2>
 			{#each data.pitch as paragraph}
 				<p>{@html marked(paragraph)}</p>

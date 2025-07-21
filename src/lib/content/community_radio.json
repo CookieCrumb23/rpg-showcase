@@ -1,9 +1,22 @@
 {
-	"imageUrl": "https://assetsio.gnwcdn.com/radio-tower-small-town.jpeg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
-	"title": "Community Radio",
-	"pitch": ["pitch"],
-	"atmosphere": ["atmosphere"],
-	"usps": ["usps"],
-	"comparisons": ["comparisons"],
-	"audience": ["audience"]
+  "imageUrl": "https://assetsio.gnwcdn.com/radio-tower-small-town.jpeg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
+  "title": "Community Radio",
+  "pitch": [
+    "_Community Radio_ ist ein **narratives Erzählrollenspiel über das Senden seltsamer Geschichten in einer noch seltsameren Welt**.",
+    "Du spielst keine Abenteurer, keine Ermittler, keine Helden – sondern die Macher:innen eines **radiosenderähnlichen Community-Projekts**, das aus einer Stadt sendet, in der die Realität leicht… **verschoben** ist."
+  ],
+  "atmosphere": [
+    "Die Welt ist nicht klar definiert – aber denkt an eine Mischung aus **_Welcome to Night Vale_**, **_Twin Peaks_** und **öffentlichem Lokalfunk mit seltsam hoher Sendereichweite**. Eure Stadt ist klein, verwinkelt, und irgendwo zwischen **magischem Realismus, sanftem Horror und skurriler Bürokratie** angesiedelt.",
+    "Was real ist, ist Ansichtssache. Was gesendet wird, beeinflusst vielleicht die Welt. Und manchmal antwortet die Welt zurück."
+  ],
+  "usps": [
+    "**Systemisch** ist das Spiel **GM-less**, **rotierend**, und stark auf **Stimmungsaufbau, Community-Narration und emergente Strukturen** ausgerichtet. Ihr spielt keine festen Charaktere – sondern gestaltet **Stimmen, Beiträge und Beziehungen**, die sich im Laufe der Sessions verändern."
+  ],
+  "comparisons": [
+    "Wenn _Paranoia_ die satirische Dystopie ist, ist _Community Radio_ die **mystische Kleinstadt-Radiostation**, die in einem Paralleluniversum existiert.",
+    "Vergleichbar mit **_Alice is Missing_** (Stimmung, Struktur), **_Dream Askew_** (queeres, gemeinschaftliches Storytelling) und **_Fiasco_** (rotierende Szenen, eskalierende Narrative) – aber alles verpackt in **Mikrofon, Sendepult und sehr seltsame Wetterberichte**."
+  ],
+  "audience": [
+    "Ideal für Gruppen, die **kreativ, kollaborativ und seltsam** erzählen wollen – ohne Würfelberge, ohne Kämpfe, aber mit jeder Menge Atmosphäre.  \nPerfekt für **Erzählspiel-Fans, Schreibgruppen, Night Vale-Enthusiast:innen und Leute, die in ihrer Freizeit gern Geister senden.**"
+  ]
 }
