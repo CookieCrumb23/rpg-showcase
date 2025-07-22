@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { navRoutes } from '$lib/navRoutes';
+	import { base } from '$app/paths';
 </script>
 
 <div class="absolute top-0 left-0 drawer z-auto">
@@ -25,7 +26,7 @@
 	<div class="drawer-side">
 		<label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
 		<ul class="menu bg-base-200 text-base-content min-h-full w-80 p-4">
-			<li><a href="/">Home</a></li>
+			<li><a href="{base}">Home</a></li>
 			{#each navRoutes as { href, label }}
 				<li><a href="/{href}">{label}</a></li>
 			{/each}
