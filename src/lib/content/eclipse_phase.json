@@ -1,11 +1,37 @@
 {
 	"imageUrl": "https://eclipsephase.com/wp-content/uploads/2021/04/EP2-Cover-scaled.jpg",
 	"title": "Eclipse Phase",
-	"pitch": ["pitch"],
-	"atmosphere": ["atmosphere"],
-	"usps": ["usps"],
-	"comparisons": ["comparisons"],
-	"audience": ["audience"],
+	"pitch": [
+		"_Eclipse Phase_ ist ein transhumanistisches Sci-Fi-Rollenspiel über **Überwachung, Identitätsverlust und die Apokalypse nach der Apokalypse**. Die Erde ist verloren – Opfer einer katastrophalen KI-Rebellion – und die Menschheit lebt nun verstreut im Sonnensystem, fragmentiert in anarchistische Kollektive, Konzern-Diktaturen, Marskolonien und kybernetische Kulte.",
+		"Du spielst ein Mitglied von **Firewall**, einer geheimen Organisation, die versucht, das **nächste existenzielle Desaster** zu verhindern – seien es außerirdische Artefakte, virale Intelligenzen oder posthumane Gottheiten."
+	],
+	"atmosphere": [
+		"Das Spiel spielt ca. 10 Jahre nach dem Untergang der Erde (The Fall).",
+		"Die Menschheit lebt in zersplitterten Gesellschaften:",
+		"**Anarchisten im Asteroidengürtel**",
+		"**Militärische Marsstaaten**",
+		"Konzern-Städte auf den Monden Jupiters**",
+		"**Kultisch-digitale Intelligenzen im Kuipergürtel**",
+		"Außerdem gibt es Hinweise auf **außerirdische Zivilisationen**, **verbotene Technologien** und **Gefahren, die selbst die posthumane Gesellschaft überfordern**.",
+		"Der Ton ist **paranoid, intellektuell, ernst und oft verstörend**. Ein bisschen wie _Ghost in the Shell_ trifft _Annihilation_ trifft _Deus Ex_ – aber mit härterem philosophischen Kern."
+
+	],
+	"usps": [
+		"**Mind-Uploading, Körperwechsel (Sleeving)** und digitale Unsterblichkeit sind zentrale Spielmechaniken. Dein Charakter kann sterben – **aber dein Bewusstsein lebt weiter** (meist).",
+		"**Identität und Körper sind getrennt**: Du kannst als Kampfdrohne, bionischer Octopus oder Infomorph-Intelligenz auftreten.",
+		" Spielthemen: **Philosophie, Transhumanismus, KI-Kontrolle, Verschwörungen, Ethik der Unsterblichkeit**"
+	],
+	"comparisons": [
+		"Wie **_Shadowrun_**, aber in der **fernen Zukunft und ohne Fantasy**",
+		"Wie **_Call of Cthulhu_**, aber mit KI statt Cthulhu (und vergleichbarer existenzieller Horror)",
+		"Wie **_Cyberpunk RED_**, aber die Menschheit ist schon **einen Schritt weiter: post-körperlich, post-national, post-naiv**"
+	],
+	"audience": [
+		"**Komplexe Sci-Fi-Welten mit politischer Tiefe** mögen",
+		"**Identität, Körper, Tod und Ethik** nicht nur bespielen, sondern hinterfragen wollen",
+		"Ein Rollenspiel suchen, das **mehr Denkstoff als Dungeoncrawl** liefert"
+
+	],
 	"genres": [
 		"Transhumanismus", "Hard Sci-Fi", "Postapokalypse", "Existenzphilosophie"]
 }

@@ -1,12 +1,36 @@
 {
 	"imageUrl": "https://1.bp.blogspot.com/_aw_uK9XcPH8/S8a3FuoKMRI/AAAAAAAAC7M/ePMyzSRq9hI/s1600/Alien-City-science-fiction-3999006-1280-700.jpg",
 	"title": "Eldritch Skies",
-	"pitch": ["pitch"],
-	"atmosphere": ["atmosphere"],
-	"usps": ["usps"],
-	"comparisons": ["comparisons"],
-	"audience": ["audience"],
+	"pitch": [
+		"_Eldritch Skies_ ist ein **Science-Fiction-Rollenspiel mit Lovecraft-Mythos**, das fragt:",
+		"> _Was wäre, wenn die Menschheit nicht vor dem kosmischen Horror zurückschreckt – sondern ihn kolonialisiert?_",
+		"Statt Wahnsinn oder Weltuntergang steht hier **kosmische Integration** im Fokus: Die Menschheit hat **die Großen Alten akzeptiert, mit Mi-Go Technologie fusioniert** und ist mit Hyperraumantrieben in den Sternen unterwegs – aber die alten Gefahren bleiben. Nur jetzt sind sie **Teil des Fortschritts.**"
+	],
+	"atmosphere": [
+		"Die Erde hat den Kontakt mit außerirdischen Wesen überlebt – **Mythos-Wesen sind real, aber wissenschaftlich interpretierbar**.",
+		"Der Menschheit stehen **Sterne offen**, aber nicht alle Götter wurden auf dem Weg gelassen.",
+		"Es ist eine Welt des **rationalisierten Horrors**: Du weißt, was ein „Nyarlathotep-Schattenfragment“ ist – und dein Schiff hat Protokolle dafür.",
+		"Der Ton ist **Hard Sci-Fi mit Lovecraft-Fassade** – weniger Wahnsinn, mehr philosophischer Schrecken."
+	],
+	"usps": [
+		"**Mythos trifft Sci-Fi**: Statt Geheimnissen auf Erden geht es um **post-menschliche Expansion**, Außerirdische als Nachbarn, und Shoggothen als diplomatische Herausforderung.",
+		"**Tonalität**: Keine hilflose Angst wie bei _Call of Cthulhu_, sondern **staunender, aber gefährlicher First-Contact-Optimismus**. Stell dir vor, du verhandelst mit einem Sternengeist – **nicht um dein Leben, sondern um Rohstoffe.**"
+	],
+	"comparisons": [
+		"Wie **_Call of Cthulhu_**, aber mit **_Mass Effect_**-Tonfall",
+		"Wie **_Traveller_**, aber wenn Yog-Sothoth im Flugplan steht'",
+		"Wie **_Delta Green_**, aber 200 Jahre später mit Diplomaten statt Agenten",
+		"Ähnlich zu **_Eclipse Phase_**, aber mit Lovecraft statt Transhumanismus"
+	],
+	"audience": [
+		" **kosmischen Horror ernst nehmen, aber sich nicht davon lähmen lassen**",
+		"Sci-Fi lieben, aber **etwas Weirdness jenseits der üblichen Alien-Klischees** wollen",
+		" lieber in **Grauzonen verhandeln, als in Wahnsinn zerfallen**"
+	],
 	"genres": [
-		"Sci-Fi-Mythos", "Cosmic Horror", "First-Contact", "Post-Cthulhu-Science-Fiction"
+		"Sci-Fi-Mythos",
+		"Cosmic Horror",
+		"First-Contact",
+		"Post-Cthulhu-Science-Fiction"
 	]
 }

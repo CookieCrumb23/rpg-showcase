@@ -1,13 +1,36 @@
 {
-	"imageUrl": "https://rowanrookanddecard.com/wp-content/uploads/2023/11/Happy-Kite-Art-Spire-3.png",
-	"title": "Spire the City Must Fall",
-	"pitch": ["pitch"],
-	"atmosphere": ["atmosphere"],
-	"usps": ["usps"],
-	"comparisons": ["comparisons"],
-	"audience": ["audience"],
-	"genres": [
-		"Urban Fantasy", "Politische Rebellion", "Dystopie", "Magie vs. Machtstruktur"
-
-	]
+  "imageUrl": "https://rowanrookanddecard.com/wp-content/uploads/2023/11/Happy-Kite-Art-Spire-3.png",
+  "title": "Spire the City Must Fall",
+  "pitch": [
+    "_Spire_ ist ein **revolutionäres Urban-Fantasy-Rollenspiel** über **Drow-Untergrundkämpfer in einer theokratischen Albtraum-Megastadt**, die von rassistischen, herrschsüchtigen Aelfir (Hochalben) kontrolliert wird.",
+    "Du spielst Mitglieder eines **geheimen Widerstandsnetzwerks**, das versucht, **die Macht zu zerschlagen, ohne entdeckt zu werden** – oder den eigenen Verstand zu verlieren."
+  ],
+  "atmosphere": [
+    "_Spire_ ist eine riesige **vertikale Stadt**, halb organisch, halb architektonischer Wahn – eine Mischung aus **Dark Souls, Menzoberranzan und französischer Revolution**.",
+    "Gesellschaft: Aelfir-Herrschaft, Menschen als unterdrückte Klasse, Drow als kontrollierte Unterkaste mit zerschlagener Kultur.",
+    "Der **Gott der Stadt ist tot**, aber sein Körper liegt noch darunter – und flüstert.",
+    "Alles hat Konsequenzen – **jeder Aufstand, jedes Attentat, jede kleine Tat.**"
+  ],
+  "usps": [
+    "**Starkes thematisches Design**: Es geht nicht um Abenteuer, sondern um **Widerstand, Identität, Klassenkampf, Opferbereitschaft und Wandel.**",
+    "**Regelwerk ist erzählerisch, aber konsequenzreich**",
+    "Jede Figur ist **ein Werkzeug der Rebellion – oder ein Opfer von ihr.**"
+  ],
+  "comparisons": [
+    "Wie **_Blades in the Dark_**, aber mit **Widerstand statt Heist**",
+    "Wie **_Vampire: The Masquerade_**, aber mit **systemischem Klassenkampf** statt persönlicher Intrige",
+    "Wie **_Dishonored_** meets _Kafka_ meets _Drow-Rebellionstheater_"
+  ],
+  "audience": [
+    "**eine andere Art von Fantasy erleben wollen** – keine Quests, sondern **Revolten**",
+    " Lust auf **starkes Worldbuilding, emotionale Tiefe und düstere Symbolik** haben",
+    "**erzählerisch spielen, aber mit realen Konsequenzen**",
+    "ein Spiel suchen, das **künstlerisch, politisch und unverzeihlich** ist"
+  ],
+  "genres": [
+    "Urban Fantasy",
+    "Politische Rebellion",
+    "Dystopie",
+    "Magie vs. Machtstruktur"
+  ]
 }

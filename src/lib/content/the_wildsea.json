@@ -1,12 +1,38 @@
 {
-	"imageUrl": "https://i.kickstarter.com/assets/031/146/074/87bb7419f5264160cc708ad1b3f70d44_original.jpg?anim=false&fit=cover&gravity=auto&height=873&origin=ugc&q=92&v=1603588159&width=1552&sig=7fI%2Bpmx2%2BLUh4ci05YnOBIg8JjemnbMW6%2Fo5tBgFoME%3D",
-	"title": "The Wildsea",
-	"pitch": ["pitch"],
-	"atmosphere": ["atmosphere"],
-	"usps": ["usps"],
-	"comparisons": ["comparisons"],
-	"audience": ["audience"],
-	"genres": [
-		"Fantasy", "Survival", "Exploration", "High Seas Adventure"
-	]
+  "imageUrl": "https://i.kickstarter.com/assets/031/146/074/87bb7419f5264160cc708ad1b3f70d44_original.jpg?anim=false&fit=cover&gravity=auto&height=873&origin=ugc&q=92&v=1603588159&width=1552&sig=7fI%2Bpmx2%2BLUh4ci05YnOBIg8JjemnbMW6%2Fo5tBgFoME%3D",
+  "title": "The Wildsea",
+  "pitch": [
+    "_The Wildsea_ ist ein **fantastisches Post-Postapokalypse-Rollenspiel auf hoher Baumkrone**, in dem du ein Schiff steuerst, das durch ein endloses Meer aus **riesigen Pflanzenwipfeln** segelt. Die Welt wurde vor Jahrhunderten von **wachsender, wilder Natur verschlungen** – und was überlebte, segelt, klettert und kämpft nun zwischen Moos, Myzel und Monstern.",
+    "Du spielst **Kettensägen-Piraten, pflanzenbasierte Pilzhexen, lebendige Pflanzenwesen oder verfluchte Schmiede**, die **Fracht transportieren, Rätsel lösen oder den nächsten Sporensturm überstehen.**"
+  ],
+  "atmosphere": [
+    "Die **Wildsea** ist ein unendliches Pflanzenmeer – 100+ Meter dicke Baumwipfel, überzogen von Pilzgeflechten, glühenden Insekten, verfluchten Maschinenwracks und vergessenen Tempeln.",
+    "Keine festen Länder – nur **Inseln, Ranken, Ruinen und organische Städte**",
+    "**Schiffe „segeln“ auf den Baumwipfeln**, gezogen von Sägen, Tentakeln, Kettengliedern, oder lebender Flora",
+    "Ton: **Heiteres Entdecken + schräger Überwuchs + leise Melancholie**  \n    Stell dir vor: _Miyazaki trifft China Miéville trifft Moos-bedeckten Heavy Metal_"
+  ],
+  "usps": [
+    "Ergebnisse liefern nicht nur Erfolg/Misserfolg, sondern **Stil, Energie und Richtung** deiner Szene",
+    "**Du beschreibst, wie du agierst – und wählst dafür passende Traits, Drives, Backgrounds und Origins**",
+    "**Jedes Schiff ist eine eigene Crew-Kampagnenstruktur**: Upgrades, Philosophie, Rumpf aus Knochen? Klar.",
+    "**Die Welt ist nicht kaputt – sie ist umgeformt.** Menschliche Städte sind verschwunden, aber **Leben wuchert, bewusst und fremd.**"
+  ],
+  "comparisons": [
+    "Wie **_Blades in the Dark_**, aber statt Gangs: **entdeckerische Schiffscrews mit erzählerischem Fokus**",
+    "Wie **_Numenera_**, aber organischer und „grüner“",
+    "Wie **_Into the Odd_**, aber mit mehr Farben, mehr Pilzen, und mehr Macheten",
+    "Wie **_Skies of Arcadia_**, aber mit **Lianen statt Wolken**"
+  ],
+  "audience": [
+    "**explorative, erzählerische Fantasy mit ungewöhnlichem Setting** suchen",
+    "Freude an **improvisierter, bildgewaltiger Weltgestaltung** haben",
+    "**weniger auf Kämpfe und mehr auf Atmosphäre, Entdeckung und Story-Sinnlichkeit** stehen",
+    "bereit sind, ein Rollenspiel zu spielen, das sich **wie Poesie mit Motorsäge** anfühlt"
+  ],
+  "genres": [
+    "Fantasy",
+    "Survival",
+    "Exploration",
+    "High Seas Adventure"
+  ]
 }

@@ -1,12 +1,37 @@
 {
-	"imageUrl": "https://freeleaguepublishing.com/wp-content/uploads/2023/09/TalesfromtheLoop.jpg",
-	"title": "Tales from the Loop",
-	"pitch": ["pitch"],
-	"atmosphere": ["atmosphere"],
-	"usps": ["usps"],
-	"comparisons": ["comparisons"],
-	"audience": ["audience"],
-	"genres": [
-		"Science-Fiction", "80er Jahre Nostalgie", "Coming-of-Age", "Kinder und Jugendliche"
-	]
+  "imageUrl": "https://freeleaguepublishing.com/wp-content/uploads/2023/09/TalesfromtheLoop.jpg",
+  "title": "Tales from the Loop",
+  "pitch": [
+    "Tales from the Loop_ ist ein **nostalgisch-sci-fi-lastiges Mystery-Rollenspiel**, in dem du **Kinder in einer alternativen Version der 1980er** spielst – in einer Welt, in der riesige Forschungseinrichtungen, schwebende Magnet-Trucks und Dinosaurier-Roboter zum Alltag gehören.",
+    "Stell dir vor: **_Stranger Things_ trifft auf _E.T._ trifft auf _Blade Runner_ – aber mit Gummistiefeln, Walkman und Matheheft.**"
+  ],
+  "atmosphere": [
+    "Die Welt ist unsere – nur **ein bisschen daneben**",
+    "In Schweden (oder USA) gibt es den **Loop** – einen gigantischen Teilchenbeschleuniger, der Realität verzerrt.",
+    "Die 1980er sind vertraut (kein Internet, dafür BMX-Räder) – aber voller **retro-futuristischer Technologie, KI, Anomalien, geheimen Projekten.**",
+    "Erwachsene sind **entweder abwesend, unfähig oder gleichgültig** – du und deine Freunde sind die Einzigen, die sich wirklich kümmern."
+  ],
+  "usps": [
+    " Du spielst **Kinder (10–15 Jahre)** – keine Erwachsenen, keine Superhelden. Die Welt ist fremd, gefährlich und voller Geheimnisse, aber du bist mutig, neugierig – und **niemals allein.**",
+    " **Du kannst nicht sterben.** Gefahr bedeutet **emotionale, soziale und psychologische Konsequenzen**, keine Lebenspunktverluste.",
+    "Fokus liegt auf **Beziehungen, Coming-of-Age, Alltagskonflikten & Sci-Fi-Mysterien**."
+  ],
+  "comparisons": [
+    "Wie **_Stranger Things_** – aber du bist die Kids.",
+    "Wie **_Monsterhearts_**, aber ohne Teen-Drama und mit echter Unschuld.",
+    "Wie **_Kids on Bikes_**, aber strukturierter und mit starker Sci-Fi-Note.",
+    "Wie **_E.T._** oder _Stand By Me_, aber mit schwebenden Kühen und Robotern im Wald."
+  ],
+  "audience": [
+    "**emotionale, atmosphärische Geschichten über Freundschaft, Kindheit und Geheimnisse** erzählen wollen",
+    "**ohne Kämpfe und Todesgefahr** spielen möchten",
+    "ein leichtes Regelsystem, aber **tiefes Storytelling** suchen",
+    "sich gern von **80er-Nostalgie, Retro-Tech und sanftem Mystery** einwickeln lassen"
+  ],
+  "genres": [
+    "Science-Fiction",
+    "80er Jahre Nostalgie",
+    "Coming-of-Age",
+    "Kinder und Jugendliche"
+  ]
 }
