@@ -5,5 +5,9 @@
 	"atmosphere": ["atmosphere"],
 	"usps": ["usps"],
 	"comparisons": ["comparisons"],
-	"audience": ["audience"]
+	"audience": ["audience"],
+	"genres": [
+		"Urban Fantasy", "Politische Rebellion", "Dystopie", "Magie vs. Machtstruktur"
+
+	]
 }

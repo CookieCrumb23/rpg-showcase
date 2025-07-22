@@ -6,4 +6,5 @@ interface Metadata {
 	usps: string[];
 	comparisons: string[];
 	audience: string[];
+	genres: string[];
 }

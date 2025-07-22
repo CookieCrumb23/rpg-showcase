@@ -5,5 +5,7 @@
 	"atmosphere": ["atmosphere"],
 	"usps": ["usps"],
 	"comparisons": ["comparisons"],
-	"audience": ["audience"]
+	"audience": ["audience"],
+	"genres": [
+		"Transhumanismus", "Hard Sci-Fi", "Postapokalypse", "Existenzphilosophie"]
 }

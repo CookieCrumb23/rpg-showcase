@@ -5,5 +5,8 @@
 	"atmosphere": ["atmosphere"],
 	"usps": ["usps"],
 	"comparisons": ["comparisons"],
-	"audience": ["audience"]
+	"audience": ["audience"],
+	"genres": [
+		"Satirische Dystopie", "Sci-Fi", "Dark Comedy", "Bürokratie-Wahnsinn"
+	]
 }

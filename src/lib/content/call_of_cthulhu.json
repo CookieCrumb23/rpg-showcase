@@ -8,13 +8,11 @@
   "atmosphere": [
     "Meist spielt _CoC_ in den **1920ern** – mit Automobilen, Telegrammen und Zigarrenrauch, in einer Welt, die gerade genug Fortschritt kennt, um zu denken, sie hätte alles verstanden. Aber auch Settings wie **Gaslight (1890er)**, **Gegenwart**, **WWII**, oder sogar **Cthulhu im Weltraum** (_Delta Green_, _Cthulhu Rising_, etc.) sind möglich.",
     "Der Ton ist **düster, langsam eskalierend, psychologisch – und am Ende meist fatal**. Das Ziel ist selten der Sieg, sondern das **Verstehen – und das Überleben der Wahrheit**."
-
   ],
   "usps": [
     "Du würfelst mit **W100 auf prozentbasierte Fertigkeiten** (z.B. Schleichen 60%, Schusswaffen 35%).",
     "Charaktere haben **geistige Stabilität (SAN)** – der Verlust davon ist nicht nur wahrscheinlich, sondern zentraler Bestandteil des Spiels.",
     "Das Spiel belohnt **Rollen- und Ermittlungsarbeit** mehr als Kampf – denn der endet meist tödlich oder wahnsinnig."
-
   ],
   "comparisons": [
     "Stell dir vor, _Call of Cthulhu_ ist der **Antithese zu D&D**: keine Level-Ups, kein Loot, keine Heldenreise – sondern **Verfall, Wahnsinn und Erkenntnis, die mehr schadet als hilft**.",
@@ -27,5 +25,11 @@
     "**mehr Rollenspiel als Regeloptimierung** suchen",
     "sich gerne mit **psychologischen Themen, Okkultismus und Wahnsinn** auseinandersetzen",
     "nichts dagegen haben, dass ihr Charakter stirbt – oder schlimmer, **weiterlebt**"
+  ],
+  "genres": [
+    "Kosmischer Horror",
+    "Investigation",
+    "Historischer Horror",
+    "Lovecraftian"
   ]
 }

@@ -5,5 +5,8 @@
 	"atmosphere": ["atmosphere"],
 	"usps": ["usps"],
 	"comparisons": ["comparisons"],
-	"audience": ["audience"]
+	"audience": ["audience"],
+	"genres": [
+		"Science-Fiction", "80er Jahre Nostalgie", "Coming-of-Age", "Kinder und Jugendliche"
+	]
 }

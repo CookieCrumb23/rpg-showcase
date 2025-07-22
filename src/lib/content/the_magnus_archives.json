@@ -5,5 +5,8 @@
 	"atmosphere": ["atmosphere"],
 	"usps": ["usps"],
 	"comparisons": ["comparisons"],
-	"audience": ["audience"]
+	"audience": ["audience"],
+	"genres": [
+		"Psychologischer Horror", 	"Übernatürlicher Horror", "Urban Weird"
+	]
 }
