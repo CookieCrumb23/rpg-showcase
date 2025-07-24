@@ -1,38 +1,51 @@
-# sv
+# RPG Showcase
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+A static website showcasing tabletop RPG games with detailed descriptions, atmospheres, and recommendations.
 
-## Creating a project
+## What it does
 
-If you're seeing this, you've probably already done this step. Congrats!
+This SvelteKit application presents a curated collection of tabletop RPGs in an interactive showcase format:
 
-```bash
-# create a new project in the current directory
-npx sv create
+- **Homepage**: Grid of game tiles with cover images
+- **Game pages**: Detailed information including pitch, atmosphere, unique selling points, comparisons, target audience, and genres
+- **Navigation**: Auto-generated menu from game data
+- **Content**: Markdown-supported descriptions in German
 
-# create a new project in my-app
-npx sv create my-app
-```
+## Tech Stack
 
-## Developing
+- **SvelteKit 5** with TypeScript
+- **TailwindCSS 4** + DaisyUI for styling
+- **Static site generation** via `@sveltejs/adapter-static`
+- **Content management** through JSON files
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
+## Development
 
 ```bash
-npm run build
+npm install          # Install dependencies
+npm run dev          # Start development server
+npm run build        # Build for production
+npm run preview      # Preview production build
 ```
 
-You can preview the production build with `npm run preview`.
+## Content Structure
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+Games are defined as JSON files in `src/lib/content/` following the `Metadata` interface:
+
+```typescript
+interface Metadata {
+  imageUrl: string;
+  title: string;
+  pitch: string[];
+  atmosphere: string[];
+  usps: string[];
+  comparisons: string[];
+  audience: string[];
+  genres: string[];
+}
+```
+
+Each file becomes a route automatically - filename determines the URL slug.
+
+## Deployment
+
+Configured for static deployment (GitHub Pages compatible) with automatic prerendering of all routes.
