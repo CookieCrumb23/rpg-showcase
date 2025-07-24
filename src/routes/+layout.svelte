@@ -6,5 +6,5 @@
 <div class="min-h-screen flex flex-col">
 	<Menu />
 	<slot />
-	<footer class="mt-auto pt-10 p-4 text-center">Contains AI generated content</footer>
+	<footer class="mt-auto pt-10 p-4 text-center">Can contain trace amounts of content.</footer>
 </div>
