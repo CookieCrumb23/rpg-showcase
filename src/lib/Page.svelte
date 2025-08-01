@@ -13,30 +13,29 @@
 	</div>
 	<div class="pt-5 px-4">
 		<div class="max-w-3xl mx-auto text-center space-y-4 prose">
-			<p class="text-xs"></p>
-			<h2>Pitch</h2>
+			<h2 class="text-3xl">Pitch</h2>
 			{#each data.pitch as paragraph}
-				<p>{@html marked(paragraph)}</p>
+				<p class="text-lg">{@html marked(paragraph)}</p>
 			{/each}
 			<div class="divider"></div>
-			<h2>Setting & Stimmung</h2>
+			<h2 class="text-3xl">Setting & Stimmung</h2>
 			{#each data.atmosphere as paragraph}
-				<p>{@html marked(paragraph)}</p>
+				<p class="text-lg">{@html marked(paragraph)}</p>
 			{/each}
 			<div class="divider"></div>
-			<h2>Was macht es besonders?</h2>
+			<h2 class="text-3xl">Was macht es besonders?</h2>
 			{#each data.usps as paragraph}
-				<p>{@html marked(paragraph)}</p>
+				<p class="text-lg">{@html marked(paragraph)}</p>
 			{/each}
 			<div class="divider"></div>
-			<h2>Womit kann man es vergleichen?</h2>
+			<h2 class="text-3xl">Womit kann man es vergleichen?</h2>
 			{#each data.comparisons as paragraph}
-				<p>{@html marked(paragraph)}</p>
+				<p class="text-lg">{@html marked(paragraph)}</p>
 			{/each}
 			<div class="divider"></div>
-			<h2>Für wen?</h2>
+			<h2 class="text-3xl">Für wen?</h2>
 			{#each data.audience as paragraph}
-				<p>{@html marked(paragraph)}</p>
+				<p class="text-lg">{@html marked(paragraph)}</p>
 			{/each}
 		</div>
 	</div>

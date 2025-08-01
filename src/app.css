@@ -1,3 +1,26 @@
 @import 'tailwindcss';
 @plugin "daisyui";
 @plugin '@tailwindcss/typography';
+
+/* OpticianSans Font */
+@font-face {
+    font-family: 'OpticianSans';
+    src: url('/fonts/OpticianSans.woff2') format('woff2'),
+         url('/fonts/OpticianSans.woff') format('woff');
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    text-rendering: optimizeLegibility;
+}
+
+:root {
+    --font-optician: 'OpticianSans', system-ui, sans-serif;
+}
+
+body {
+    font-family: var(--font-optician), sans-serif;
+}
+
+.font-optician {
+    font-family: var(--font-optician), sans-serif;
+}
