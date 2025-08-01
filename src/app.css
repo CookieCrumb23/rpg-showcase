@@ -5,8 +5,8 @@
 /* OpticianSans Font */
 @font-face {
     font-family: 'OpticianSans';
-    src: url('/fonts/OpticianSans.woff2') format('woff2'),
-         url('/fonts/OpticianSans.woff') format('woff');
+    src: url('$lib/assets/OpticianSans.woff2') format('woff2'),
+         url('$lib/assets/OpticianSans.woff') format('woff');
     font-style: normal;
     font-weight: normal;
     font-display: swap;
