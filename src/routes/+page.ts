@@ -1,3 +1,6 @@
+import { base } from '$app/paths';
+import type { Metadata } from '$lib/types/metadata';
+
 export async function load() {
 	const modules = import.meta.glob('../lib/content/*.json');
 
@@ -8,7 +11,7 @@ export async function load() {
 			path = path.replace('../lib/content/', '').replace('.json', '');
 			return {
 				...mod,
-				path
+				path: `${base}/${path}`
 			};
 		})
 	);
