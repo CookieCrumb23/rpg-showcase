@@ -26,7 +26,7 @@
 	<div class="drawer-side">
 		<label for="my-drawer" aria-label="close sidebar" class="drawer-overlay"></label>
 		<ul class="menu bg-base-200 text-base-content min-h-full w-80 p-4">
-			<li class="text-xl"><a href="/">Home</a></li>
+			<li class="text-xl"><a href="{base}/">Home</a></li>
 			{#each navRoutes as { href, label }}
 				<li class="text-lg"><a href="/{href}">{label}</a></li>
 			{/each}
