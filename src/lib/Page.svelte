@@ -4,7 +4,7 @@
 </script>
 
 	<div class="hero lg:h-84" style={`background-image: url('${data.imageUrl}')`}>
-		<div class="hero-overlay"></div>
+		<div class="hero-overlay bg-base-100 bg-opacity-5"></div>
 		<div class="hero-content text-neutral-content text-center">
 			<div class="max-w-md">
 				<h1 class="mb-5 text-5xl font-bold">{data.title}</h1>
