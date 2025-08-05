@@ -4,7 +4,13 @@
 	"pitch": ["pitch"],
 	"atmosphere": ["atmosphere"],
 	"usps": ["usps"],
-	"comparisons": ["comparisons"],
+	"comparisons": [
+		"Dark City – Stadt als formbares Labyrinth, Identität als Illusion, alles lebt – aber falsch",
+		"The Descent – klaustrophobische Tiefe, Trauma, Dunkelheit, Monster, die man kennt – oder ist",
+		"The City & The City (China Miéville) – zwei Orte in einem, Regeln, die nicht sichtbar, aber real sind",
+		"Dark Souls / Bloodborne – eine sterbende Stadt mit gottähnlichen Entitäten, deren Macht an Wahnsinn grenzt",
+		"Hollow Knight – wunderschön verfallene Unterwelt, Kämpfer mit Missionen, die sie nicht überleben sollen"
+	],
 	"audience": ["audience"],
 	"genres": [
 		"Surrealer Dungeon-Horror", "Körperhorror", "Eskalatives Fantasy-Drama"

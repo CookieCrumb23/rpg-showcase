@@ -4,7 +4,15 @@
 	"pitch": ["pitch"],
 	"atmosphere": ["atmosphere"],
 	"usps": ["usps"],
-	"comparisons": ["comparisons"],
+	"comparisons": [
+		"Alien – beengter Raum, übermächtige Bedrohung, Isolation, langsamer Terror im Vakuum",
+		"Event Horizon – Raumfahrt trifft auf Hölle, Wahnsinn als reales Risiko, Crew gegen Unerklärliches",
+		"Love, Death & Robots (Auswahl: „Helping Hand“, „The Secret War“, „Beyond the Aquila Rift“) – Kurzform-Sci-Fi-Horror mit nihilistischem Einschlag",
+		"The Expanse (frühe Bücher) – kalter Weltraum, politische Fragilität, Protomolekül als Horror",
+		"Dead Space – Enge, Ressourcenmangel, Körperhorror und psychischer Verfall",
+		"Barotrauma – klaustrophobische Zusammenarbeit unter Druck, ständig kurz vor der Katastrophe"
+
+	],
 	"audience": ["audience"],
 	"genres": [
 		"Sci-Fi-Horror", "Survival", "Isolation", "Techno-Thriller"

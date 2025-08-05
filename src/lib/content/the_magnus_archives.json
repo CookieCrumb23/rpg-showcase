@@ -4,7 +4,15 @@
 	"pitch": ["pitch"],
 	"atmosphere": ["atmosphere"],
 	"usps": ["usps"],
-	"comparisons": ["comparisons"],
+	"comparisons": [
+		"Twin Peaks – das Unheimliche liegt direkt unter der Oberfläche, strukturell verschachtelt, atmosphärisch dicht",
+		"The X-Files – Fallakten über das Übernatürliche, bei denen sich ein größeres Bild abzeichnet – und niemand ist je ganz sicher",
+		"The Magnus Archives (Podcast) – natürlich: unheimliche Kurzgeschichten, die sich langsam zu etwas viel Größerem verweben",
+		"We Have Always Lived in the Castle (Shirley Jackson) – paranoide Perspektive, Isolation, beunruhigend intime Erzählweise",
+		"Control – Archiv einer Behörde für Übernatürliches, unerklärliche Artefakte, formwandelnde Realität",
+		"Alan Wake – Schriftsteller gerät in seine eigene Horrorgeschichte, Licht und Dunkelheit als zentrale Motive",
+		"Stories Untold – textbasierter Horror, Aufarbeitung von Erinnerung und Trauma durch Medien"
+	],
 	"audience": ["audience"],
 	"genres": [
 		"Psychologischer Horror", 	"Übernatürlicher Horror", "Urban Weird"

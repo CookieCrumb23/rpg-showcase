@@ -4,7 +4,15 @@
 	"pitch": ["pitch"],
 	"atmosphere": ["atmosphere"],
 	"usps": ["usps"],
-	"comparisons": ["comparisons"],
+	"comparisons": [
+		"Sleepy Hollow – okkultes 19. Jahrhundert, Ermittlungen mit übernatürlichem Einschlag",
+		"The Terror – historische Expedition mit übernatürlicher Bedrohung, Paranoia, Kälte, Tod",
+		"Let the Right One In (John Ajvide Lindqvist) – nordischer Horror mit Tragik und Melancholie",
+		"Bramble: The Mountain King – düstere Märchenwelt auf nordischer Grundlage, verstörend und melancholisch",
+		"The Vanishing of Ethan Carter – ruhiges Mystery-Spiel mit übernatürlichen Elementen und schöner Natur",
+		"White Night – Detektivarbeit, Schwarz-Weiß-Stil, langsamer Aufbau von Spannung"
+
+	],
 	"audience": ["audience"],
 	"genres": [
 		"Nordische Mythologie", "Mystery", "Übernatürlicher Horror", "Folklore"

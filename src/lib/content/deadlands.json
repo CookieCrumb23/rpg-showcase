@@ -4,7 +4,15 @@
 	"pitch": ["pitch"],
 	"atmosphere": ["atmosphere"],
 	"usps": ["usps"],
-	"comparisons": ["comparisons"],
+	"comparisons": [
+	"The Good, the Bad and the Ugly – ikonischer Westernstil, moralisch zweifelhafte Antihelden, staubige Gesetzlosigkeit",
+	"Army of Darkness – überdrehter Horror mit Humor, Magie trifft auf Schießpulver",
+	"Wild Wild West (1999) – Steampunk-Gadgets, überzeichnete Technik und absurde Western-Action",
+	"The Dark Tower (Stephen King) – Western-Mythos mit düsteren, magischen und postapokalyptischen Elementen",
+	"Jonah Hex (DC Comics) – grimmiger Revolverheld in einer Welt voller Flüche, Zombies und Verzweiflung",
+	"Red Dead Redemption: Undead Nightmare – klassischer Western wird vom Übernatürlichen überrannt",
+	"Hard West – Taktikspiel mit Dämonen, Flüchen und moralisch verrottetem Grenzland"
+	],
 	"audience": ["audience"],
 	"genres": ["Weird West", "Horror", "Alternate History", "Steampunk"]
 }

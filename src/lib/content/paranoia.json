@@ -4,7 +4,14 @@
 	"pitch": ["pitch"],
 	"atmosphere": ["atmosphere"],
 	"usps": ["usps"],
-	"comparisons": ["comparisons"],
+	"comparisons": [
+		"1984 (George Orwell) – totale Überwachung, doppelte Sprache, Angst vor Gedankenverbrechen",
+		"The Truman Show – künstliche Realität, beobachtet sein ohne zu wissen, wer zusieht",
+		"Brazil (Terry Gilliam) – überbordende Bürokratie, absurde Technologie, lähmender Autoritarismus mit dunklem Humor",
+		"The Hitchhiker’s Guide to the Galaxy (Douglas Adams) – Bürokratie, Weltuntergang und Slapstick-Sci-Fi",
+		"The Stanley Parable – freie Entscheidung als Illusion, Erzähler gegen Spieler, Meta-Komik",
+		"We Happy Few – retrofuturistische Gesellschaft, Pflicht zur Glückseligkeit, alles bröckelt unter der Oberfläche"
+	],
 	"audience": ["audience"],
 	"genres": [
 		"Satirische Dystopie", "Sci-Fi", "Dark Comedy", "Bürokratie-Wahnsinn"
