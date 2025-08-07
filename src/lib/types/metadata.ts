@@ -1,6 +1,6 @@
-interface Metadata {
+export interface Metadata {
 	imageUrl: string;
-	title: string[];
+	title: string;
 	pitch: string[];
 	atmosphere: string[];
 	usps: string[];

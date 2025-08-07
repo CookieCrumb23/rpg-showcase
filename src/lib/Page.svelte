@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { marked } from 'marked';
+	import type { Metadata } from '$lib/types/metadata';
 	export let data: Metadata;
 </script>
 

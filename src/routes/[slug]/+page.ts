@@ -1,5 +1,5 @@
 import type { PageLoad } from './$types';
-import type { Metadata } from '$lib/types';
+import type { Metadata } from '$lib/types/metadata';
 import { error } from '@sveltejs/kit';
 
 // Create a mapping of all JSON files in content/
