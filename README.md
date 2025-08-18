@@ -2,7 +2,7 @@
 
 A static website showcasing tabletop RPG games with detailed descriptions, atmospheres, and recommendations.
 
-## What it does
+## How it does
 
 This SvelteKit application presents a curated collection of tabletop RPGs in an interactive showcase format:
 
